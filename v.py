@@ -1,4 +1,4 @@
-a=200,
-b=30,
-c=a+b,
-print (c)
+a=200
+b=300
+c=a+b
+print(c)
